@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Lidiya-prog/cssMemSlider/issues"
   },
-  "homepage": "https://github.com/Lidiya-prog/cssMemSlider#readme"
+  "homepage": "https://github.com/Lidiya-prog/cssMemSlider#readme",
+  "devDependencies": {
+    "linthtml-config-htmlacademy": "^1.0.3",
+    "stylelint-config-htmlacademy": "^0.1.12"
+  }
 }
