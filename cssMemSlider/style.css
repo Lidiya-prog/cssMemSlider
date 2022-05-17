@@ -33,7 +33,6 @@ body {
 
 #slides .slide {
   width: 20%;
-  float: left;
 }
 
 #slides .image {
@@ -141,7 +140,6 @@ a {
 
 .description {
   width: 20%;
-  float: left;
   text-align: start;
 }
 
